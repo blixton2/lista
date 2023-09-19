@@ -27,15 +27,15 @@ acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
 #EXTVLCOPT:deinterlace=-1
 #EXTVLCOPT:deinterlace-mode=bob
 acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
-#EXTINF:0,DAZN F1 Opción 1
+#EXTINF:0,DAZN F1 OpciÃ³n 1
 #EXTVLCOPT:deinterlace=-1
 #EXTVLCOPT:deinterlace-mode=bob
 acestream://5789ca155323664edd293b848606688edf803f4d
-#EXTINF:0,DAZN F1 Opción 2
+#EXTINF:0,DAZN F1 OpciÃ³n 2
 #EXTVLCOPT:deinterlace=-1
 #EXTVLCOPT:deinterlace-mode=bob
 acestream://9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:0,DAZN F1 Opción 3
+#EXTINF:0,DAZN F1 OpciÃ³n 3
 #EXTVLCOPT:deinterlace=-1
 #EXTVLCOPT:deinterlace-mode=bob
 acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
@@ -67,7 +67,7 @@ acestream://26029f72a4ca831d09deefe89534818db1d105bc
 #EXTVLCOPT:deinterlace=-1
 #EXTVLCOPT:deinterlace-mode=bob
 acestream://4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:0,LaLiga Hypermotion Opción 2
+#EXTINF:0,LaLiga Hypermotion OpciÃ³n 2
 #EXTVLCOPT:deinterlace=-1
 #EXTVLCOPT:deinterlace-mode=bob
 acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
@@ -75,7 +75,7 @@ acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
 #EXTVLCOPT:deinterlace=-1
 #EXTVLCOPT:deinterlace-mode=bob
 acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
-#EXTINF:0,LaLiga Hypermotion 2 Opción 2
+#EXTINF:0,LaLiga Hypermotion 2 OpciÃ³n 2
 #EXTVLCOPT:deinterlace=-1
 #EXTVLCOPT:deinterlace-mode=bob
 acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
@@ -175,7 +175,7 @@ acestream://c9c062941fbecb16ce29437f346ea7177d720898
 #EXTVLCOPT:deinterlace=-1
 #EXTVLCOPT:deinterlace-mode=bob
 acestream://cba8d369eac629b577750edb90370cd1c5fb03b7
-#EXTINF:0,beIN Sports Xtra Ñ
+#EXTINF:0,beIN Sports Xtra Ã‘
 #EXTVLCOPT:deinterlace=-1
 #EXTVLCOPT:deinterlace-mode=bob
 acestream://92a7dcc55392efc6dd5d012c4ff3878891eb6a6e
